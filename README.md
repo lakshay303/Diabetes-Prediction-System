@@ -1,3 +1,8 @@
+🌐 Live Demo
+
+Try the application here:
+https://diabetes-prediction-system-lakshay.streamlit.app
+
 🩺 Diabetes Prediction System
 
 A Machine Learning-based web application that predicts whether a patient is likely to have diabetes based on medical attributes such as Glucose Level, BMI, Blood Pressure, Insulin, Age, and more.
